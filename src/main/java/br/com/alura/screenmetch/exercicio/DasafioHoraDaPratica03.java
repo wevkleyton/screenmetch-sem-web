@@ -43,7 +43,7 @@ public class DasafioHoraDaPratica03 {
 
 
         /* 6 - Filtrando pessoas */
-        List
+
     }
 
     private static boolean ehPrimo(int numero){
